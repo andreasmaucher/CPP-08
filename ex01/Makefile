@@ -1,5 +1,5 @@
-NAME = converter
-SOURCES = main.cpp ScalarConverter.cpp
+NAME = span
+SOURCES = main.cpp Span.cpp
 		
 OBJS = $(SOURCES:.cpp=.o)
 

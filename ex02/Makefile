@@ -1,5 +1,5 @@
-NAME = converter
-SOURCES = main.cpp ScalarConverter.cpp
+NAME = mutant
+SOURCES = main.cpp
 		
 OBJS = $(SOURCES:.cpp=.o)
 
